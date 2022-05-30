@@ -1,0 +1,27 @@
+.boton {
+    background-color: black!important;
+    color: white!important;
+    text-align: center;
+    border-radius: 20px;
+}
+
+.boton:hover {
+    filter: opacity(75%);
+    background-color: blue!important;
+}
+
+.botonRojo {
+    background-color: rgb(221, 190, 14)!important;
+    color: black!important;
+    text-align: center!important;
+    border-radius: 10px!important;
+    margin: 15px!important;
+}
+
+.botonRojo:hover {
+    filter: opacity(75%);
+    background: blue!important;
+    color: white!important;
+    text-align: center;
+    border-radius: 20px;
+}
